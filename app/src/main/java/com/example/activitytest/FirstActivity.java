@@ -24,7 +24,6 @@ public class FirstActivity extends AppCompatActivity {
                 Toast.makeText(FirstActivity.this, "you click button 1", Toast.LENGTH_LONG).show();
             }
         });
-
     }
 
     @Override
